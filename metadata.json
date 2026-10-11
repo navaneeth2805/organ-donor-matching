@@ -1,0 +1,7 @@
+{
+  "name": "Organ Donor Matching Network",
+  "description": "Organ Donor Matching Network featuring bipartite graph construction, Hopcroft-Karp maximum cardinality matching, maximum weight matching, graph topology metrics, centrality analytics, candidate ranking, and interactive PyVis network visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
